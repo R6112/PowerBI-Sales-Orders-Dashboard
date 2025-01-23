@@ -1,8 +1,8 @@
 ![Screenshot 2025-01-23 152156](https://github.com/user-attachments/assets/52b2dae1-a8b2-4efd-86e7-41e6c2eaac06)
-![Screenshot 2025-01-23 152134](https://github.com/user-attachments/assets/3bf2f594-6497-46cf-ac3a-df518fd6f75e)
+
 ![Screenshot 2025-01-23 152115](https://github.com/user-attachments/assets/a7d2dac0-37c6-4af7-88ed-5b6a216c0dc3)
 ![Screenshot 2025-01-23 152051](https://github.com/user-attachments/assets/12b216c5-b205-47fd-8baf-5bb92c51d8a3)
-![Screenshot 2025-01-23 151859](https://github.com/user-attachments/assets/ee7d8e39-2a8a-41e2-8633-39274ac9383e)
+
 ![Screenshot 2025-01-23 151846](https://github.com/user-attachments/assets/ee1303c7-3b29-4f6b-83ad-e0a2b052a084)
 # PowerBI-Sales-Orders-Dashboard
 
